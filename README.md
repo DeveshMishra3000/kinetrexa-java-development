@@ -1,1 +1,0 @@
-# kinetrexa-java-development
